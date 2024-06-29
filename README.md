@@ -1,4 +1,4 @@
-#Clone site da Dio, Utilizando a biblioteca do react.
+#Clone site da Dio, Utilizando a biblioteca do react.#
 
 abaixo estão listados algumas capturas de tela do site desenvolvido em react, curso da trilha de aprendizagem de react onde pude conhecer e aprimorar minhas habilidades em react.
 Reutilização de componentes, utilizando o styled components para desenvolver componentes personalizados.
