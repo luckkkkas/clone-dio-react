@@ -5,9 +5,9 @@ export const InputContainer = styled.div`
     background: #13192c;
     border: none;
     border-bottom: 1px solid gray;
-
-   " &&::before": {
-       content: "→" ; 
+    margin: .5rem 0;
+    &&::before: {
+       content: "" ; 
     }
 `
 
@@ -17,8 +17,9 @@ export const IconContainer = styled.div`
 
 export const InputText = styled.input`
     background-color: transparent;
-    color: #fff;
+    color: #FFF;
     flex: 1;
     border: 0;
-    height: 30px;
+    height: 100%;
+    width: 100%
 ` 

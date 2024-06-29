@@ -38,7 +38,7 @@ const Login = () => {
     
     return(
         <>
-        <Header />
+        <Header  autenticado={false}/>
         <Row>
             <Container>
                 <P>A plataforma para você aprender

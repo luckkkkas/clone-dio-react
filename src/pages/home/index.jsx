@@ -7,7 +7,7 @@ import { Container, P, Row, Span, Div } from "./style";
 const Home = () => {
     return(
         <>
-            <Header />
+            <Header  autenticado={false}/>
             <Row>
                 <Container>
                     <h1>
